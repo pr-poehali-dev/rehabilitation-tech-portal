@@ -186,7 +186,7 @@ const Index = () => {
                 <div className="grid md:grid-cols-2 gap-6">
                   <div className="flex items-center space-x-3">
                     <Icon name="Mail" className="w-5 h-5 text-primary" />
-                    <span>info@ilab.center</span>
+                    <span>tiflostore@inbox.ru</span>
                   </div>
                   <div className="flex items-center space-x-3">
                     <Icon name="Phone" className="w-5 h-5 text-primary" />
