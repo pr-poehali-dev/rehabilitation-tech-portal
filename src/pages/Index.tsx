@@ -31,10 +31,7 @@ const Index = () => {
       <section id="home" className="py-20 px-4">
         <div className="container mx-auto text-center">
           <div className="animate-fade-in">
-            <Badge variant="secondary" className="mb-6">
-              <Icon name="Accessibility" className="w-4 h-4 mr-2" />
-              Центр когнитивных технологий
-            </Badge>
+            <Badge variant="secondary" className="mb-6">Центр когнитивных технологий "iLAB"</Badge>
             <h1 className="text-4xl md:text-6xl font-bold mb-6 bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
               Будущее реабилитации уже здесь
             </h1>
